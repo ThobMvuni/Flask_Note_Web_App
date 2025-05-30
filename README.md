@@ -19,7 +19,7 @@ git clone [(https://github.com/ThobMvuni/Junior-_Python-_Developer-_Practical-_T
 # Install dependencies
 pip install -r requirements.txt
 
-##🏃‍♂️ Running The App
+## 🏃‍♂️ Running The App
 
 flask run
 
