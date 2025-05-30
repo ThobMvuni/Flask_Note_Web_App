@@ -48,13 +48,22 @@ password: def12345
 
 # Folder Structure
 
-project-root/
-├── static/             # JS and CSS (if any)
-├── templates/          # HTML templates (base, login, signup, home, etc.)
-├── main.py             # Flask app entry point
-├── models.py           # Database models (optional if using SQLAlchemy)
-├── requirements.txt    # Python dependencies
-└── README.md           # This file
+
+---
+
+## Description
+
+- **static/**: Contains static files such as JavaScript and CSS.
+- **templates/**: Contains HTML template files used by Flask for rendering pages.
+- **main.py**: The main entry point for running the Flask application.
+- **models.py**: Contains database model definitions if using an ORM like SQLAlchemy.
+- **requirements.txt**: Lists all Python package dependencies required for the project.
+- **README.md**: Documentation and project overview file (this file).
+
+---
+
+Feel free to update this file with instructions on how to install, run, and use your project!
+
 
 ## 🧰 Libraries Used
 
