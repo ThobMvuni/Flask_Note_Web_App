@@ -46,4 +46,24 @@ password: def12345
 
     ✅ Jinja2 templating for dynamic content
 
+# Folder Structure
 
+project-root/
+├── static/             # JS and CSS (if any)
+├── templates/          # HTML templates (base, login, signup, home, etc.)
+├── main.py             # Flask app entry point
+├── models.py           # Database models (optional if using SQLAlchemy)
+├── requirements.txt    # Python dependencies
+└── README.md           # This file
+
+## 🧰 Libraries Used
+
+    Flask — Python web framework
+
+    Flask-Login — User session management
+
+    Bootstrap — For responsive UI
+
+    Jinja2 — Templating engine for Flask
+
+    Flask SQLAlchemy (if used) — ORM for database interactions
