@@ -12,8 +12,8 @@ A simple web-based note-taking application built with **Flask** and **Bootstrap*
 
 ### Steps
 
-bash
 # Clone the repository
+
 git clone <repo-url>
 cd <repo-folder>
 
