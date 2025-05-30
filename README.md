@@ -10,9 +10,11 @@ A simple web-based note-taking application built with **Flask** and **Bootstrap*
 - Python 3.8 or higher
 - Git
 
-### Steps
+## Steps
 
 # Clone the repository
+git clone <repo-url>
+cd <repo-folder>
 
 git clone <repo-url>
 cd <repo-folder>
