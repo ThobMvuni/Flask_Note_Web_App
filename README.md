@@ -33,7 +33,7 @@ password: def12345
 
 ## 🧭 App Overview
 
-#Features
+# Features
 
     ✅ User Registration & Authentication
 
