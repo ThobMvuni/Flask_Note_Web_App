@@ -15,7 +15,6 @@ A simple web-based note-taking application built with **Flask** and **Bootstrap*
 # Clone the repository
 
 git clone [(https://github.com/ThobMvuni/Junior-_Python-_Developer-_Practical-_Test)]
-cd repo-folder
 
 # Install dependencies
 pip install -r requirements.txt
